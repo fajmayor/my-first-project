@@ -1,0 +1,9 @@
+My Cloud Learning Goals
+
+1. Learn how to collaborate effectively on projects
+2. Learn to automate cloud resources management using tools like Terraform, CloudFormation, and Ansible
+3. Master writing, testing, and deploying IaC scripts to create scalable and repeatable environments
+4. Gain proficiency with Docker for containerization
+5. Learn to deploy and manage applications in containers using orchestration tools like Kubernetes.
+6. Pass some Cloud Engineering Certifications
+
